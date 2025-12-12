@@ -1,4 +1,4 @@
-# Detailed Report: Blockchain Smart Contracts Analysis
+# Report: Blockchain Smart Contracts Analysis
 
 **Project:** Cosmetic Product certification and Traceability System  
 
